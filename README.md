@@ -49,6 +49,9 @@ CREATE TABLE Movimentacao (
     PRIMARY KEY (Id)
 )
 
+--Caso queira usar alguns dados para teste, os inserts abaixo podem ajudar:
+--INSERT INTO Fundo VALUES (NEWID(), 'ALASKA BLACK INSTITUCIONAL FIA', '26673556000132', 1000.00)
+--INSERT INTO Fundo VALUES (NEWID(), 'ARGUCIA INCOME FIA', '07670115000132', 10000.00)
 
 ```
 
