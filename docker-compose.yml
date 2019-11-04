@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  AtivaInvestimentos.api:
+    image: ${DOCKER_REGISTRY-}donetcoreapijwt
+    build:
+      context: .
+      dockerfile: AtivaInvestimentos.API/Dockerfile
