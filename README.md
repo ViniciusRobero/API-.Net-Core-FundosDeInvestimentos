@@ -1,4 +1,4 @@
-# Ativa Investimentos - Fundos de Investimentos
+# Fundos de Investimentos
 Essa aplicação tem como objetivo criar um sistema listagem de fundos de investimentos cadastrados, aplicação e resgate desses fundos.
 
 ## Tecnologias
